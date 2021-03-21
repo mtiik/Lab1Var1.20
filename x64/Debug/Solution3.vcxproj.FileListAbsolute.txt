@@ -1,0 +1,2 @@
+C:\Users\masfuerto\Desktop\лаба\x64\Debug\static.exe
+C:\Users\masfuerto\Desktop\лаба\x64\Debug\static.pdb

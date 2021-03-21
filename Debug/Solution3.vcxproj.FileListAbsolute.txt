@@ -1,0 +1,2 @@
+D:\Demon\Code\Solution3\Debug\static.exe
+D:\Demon\Code\Solution3\Debug\static.pdb
